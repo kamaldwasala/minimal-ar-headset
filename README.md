@@ -1,5 +1,5 @@
 # Minimal AR
-![Minimal AR Headset Prototype](minimal-ar-prototype.jpg)
+![Minimal AR Headset Prototype](minimal-ar-prototype1.jpg)
 ### A Voice-First Wearable Interface for Human–AI Interaction
 
 **An independent experimental design project by Dr. Kamal D. Wasala**  
