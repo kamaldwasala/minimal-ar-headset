@@ -1,98 +1,101 @@
-# Minimal AR Headset
+# Minimal AR
+### A Voice-First Wearable Interface for Human–AI Interaction
 
-### Exploring Accessible Wearable Displays for Human–AI Interaction
-
-**An independent design research and experimental prototyping project by Dr. Kamal D. Wasala**
-
+**An independent experimental design project by Dr. Kamal D. Wasala**  
 Senior Lecturer in Design | University of Moratuwa, Sri Lanka
 
 ---
 
-## About the Project
+## Rethinking Wearable AI Interaction
 
-Minimal AR Headset is an ongoing experimental project exploring the development of affordable, lightweight, head-mounted visual interfaces for human–AI interaction.
+**What if the future of wearable AI doesn't require a large screen?**
 
-Unlike conventional augmented reality systems that aim to deliver immersive visual experiences, this project investigates a different question:
+Minimal AR is an experimental wearable interface exploring how voice interaction, artificial intelligence, and minimal visual feedback can work together to create more natural, hands-free human–AI experiences.
 
-**How little visual information do we actually need for meaningful hands-free interaction with AI?**
+Rather than attempting to replicate conventional augmented reality glasses, this project explores a simpler alternative:
 
-The project combines accessible electronic components, optical experimentation, digital fabrication, and AI-assisted programming to explore alternative approaches to wearable computing.
+**Voice as the primary interaction. Visual information only when necessary.**
 
-## Project Vision
+The goal is to investigate how meaningful AI interactions can be supported through small, contextual visual cues rather than complex graphical interfaces.
 
-Advanced wearable technologies should not be limited to large technology companies or expensive research laboratories.
+## The System
 
-With accessible microcontrollers, miniature displays, desktop prototyping tools, and AI-assisted development, individual designers and makers can increasingly experiment with technologies that previously required substantial resources.
+The project brings together three experimental components:
 
-This project explores that opportunity through hands-on experimentation and iterative design.
+**1. Voice-First Interaction**
 
-## Current Prototype
+A smartphone-based voice interface, developed through experiments with a custom Whisper Button application, provides the foundation for hands-free interaction with AI.
 
-The experimental system includes:
+**2. Minimal Head-Mounted Display**
 
-- ESP32-C3 microcontroller
-- Miniature 72 × 40 pixel OLED display
-- Compact optical lens and experimental reflective arrangements
-- Custom-designed wearable mounting structures
-- Minimal visual interface animations
+A low-cost wearable display prototype using ESP32 microcontrollers, a miniature OLED screen, experimental optics, and custom-fabricated mounting structures.
+
+**3. AI-Assisted Interaction**
+
+Exploring how conversational AI can support everyday tasks through speech, complemented by short visual messages, notifications, and interaction indicators.
+
+The components are at different stages of development and are being progressively integrated.
+
+## Design Philosophy
+
+- **Voice first:** Natural speech as the primary interaction method.
+- **Minimal visual information:** Show only what is useful at the moment.
+- **Accessible technology:** Experiment with affordable, readily available components.
+- **Design-led development:** Start with human interaction rather than technological complexity.
+- **Open experimentation:** Share the process, challenges, and discoveries.
+
+## Hardware Exploration
+
+The prototype development includes:
+
+- ESP32 and ESP32-C3 microcontrollers
+- Miniature OLED display (72 × 40 pixels)
+- Optical lenses and reflective arrangements
+- 3D-printed experimental mounting structures
 - Arduino-based display programming
+- Compact battery-powered configurations
 
-The prototype currently focuses on basic visual feedback and optical experimentation. Full AI integration remains a future development objective.
+## Interaction Possibilities
 
-## Minimal Visual Interaction
+The project explores visual feedback for:
 
-The proposed interface explores simple visual feedback for different interaction states:
+- Listening, processing, and responding
+- Short AI-generated messages
+- Contextual reminders
+- Timers and task progress
+- Notifications
+- Future context-aware interactions
 
-- **Listening:** Indicating that the system is receiving input
-- **Thinking:** Communicating processing activity
-- **Speaking:** Indicating an AI response
-- **Notifications:** Displaying short contextual information
+These represent a combination of current experiments and future development directions.
 
-Rather than presenting large amounts of information, the intention is to communicate essential information with minimal visual distraction.
+## Why This Project Matters
 
-## Development Approach
+Emerging technologies, AI-assisted programming, accessible electronics, and desktop fabrication are changing who can participate in technological innovation.
 
-The project follows an iterative, design-led experimental approach involving:
+This project demonstrates how a product designer can independently explore advanced wearable interaction concepts without the resources traditionally associated with large technology companies.
 
-1. Exploration of affordable display technologies
-2. Optical experimentation and visual clarity testing
-3. Electronic prototyping and programming
-4. Physical form development and wearable integration
-5. Minimal interface design and animation
-6. Evaluation and refinement through successive prototypes
+**The opportunity to innovate is increasingly shifting from specialised laboratories to individual desktops.**
 
-Both successful experiments and technical limitations will be documented to support learning and future development.
+## Prototype Demonstration
 
-## Project Demonstration
+[Watch Minimal AR — Prototype 01 on YouTube](https://youtu.be/iFnnCJ3miUE)
 
-[Watch Prototype 01 on YouTube](https://youtu.be/iFnnCJ3miUE)
+## Current Status
 
-## Project Status
+**Experimental development | October 2026**
 
-**Ongoing experimental development — October 2026**
-
-Current work focuses on miniature display interfaces, optical clarity, wearable configurations, and visual interaction concepts.
-
-## Future Development
-
-Potential development directions include:
-
-- Hands-free AI interaction
-- Microphone and audio integration
-- Context-aware visual feedback
-- Improved optical configurations
-- Compact wearable enclosure design
-- Multilingual interface exploration
-- Open documentation for researchers, students, and makers
+Working display experiments and early wearable prototypes have been developed. Voice interaction, display integration, optical improvements, and interaction design remain ongoing areas of exploration.
 
 ## About the Creator
 
-**Dr. Kamal D. Wasala** is a Senior Lecturer in Design at the Department of Integrated Design, Faculty of Architecture, University of Moratuwa, Sri Lanka.
+**Dr. Kamal D. Wasala**  
+Senior Lecturer in Design  
+Department of Integrated Design  
+Faculty of Architecture  
+University of Moratuwa, Sri Lanka
 
-His research interests include human–robot interaction, product design, emotional expression in non-humanoid social robots, emerging technologies, and experimental design prototyping.
-
-This project is independently initiated and developed as part of his ongoing exploration of accessible technologies and alternative human–AI interfaces.
+Research interests include human–robot interaction, product design, emotional expression in non-humanoid social robots, wearable technologies, and emerging human–AI interfaces.
 
 ---
 
-*An evolving experimental project. Documentation, code, prototype images, and technical details will be added progressively.*
+*An independent, evolving design research and prototyping project. Technical documentation, code, photographs, and further development updates will be shared progressively.*
